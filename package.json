@@ -1,0 +1,19 @@
+{
+  "name": "webapp_express.js-pug_v2",
+  "version": "1.0.0",
+  "description": "This is for webapp by coding express.js with pug.",
+  "main": "index.js",
+  "scripts": {
+    "win":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k7nsuy/webapp_express.js-pug_v2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/k7nsuy/webapp_express.js-pug_v2/issues"
+  },
+  "homepage": "https://github.com/k7nsuy/webapp_express.js-pug_v2#readme"
+}
